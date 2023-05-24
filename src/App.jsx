@@ -1,7 +1,12 @@
 import "./App.css";
+import Saludo from "./components/Saludo";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Saludo />
+    </>
+  );
 }
 
 export default App;
