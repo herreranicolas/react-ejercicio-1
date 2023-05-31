@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://herreranicolas.github.com/react-ejercicio-1",
+  base: "https://github.com/herreranicolas/react-ejercicio-1",
 });
